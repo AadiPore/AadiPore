@@ -1,4 +1,8 @@
-![Header](./Aditya Git'.png)
+<div align="center">
+  <img height="300" width="1100" src="https://github.com/AadiPore/AadiPore/blob/main/Aditya%20Git'.png"  />
+</div>
+
+###
 
 <h1 align="left">Hi there 👋 I'm Aditya Pore!</h1>
 
@@ -37,12 +41,6 @@
 <br clear="both">
 
 <img align="right" height="200" src="giphy.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
 
 ###
 
