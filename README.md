@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="270" width="1100" src="https://github.com/AadiPore/AadiPore/blob/main/Aadi.gif"  />
+  <img height="270" width="1100" src="https://github.com/AadiPore/AadiPore/blob/main/Aadi_2.gif"  />
 </div>
 
 ###
