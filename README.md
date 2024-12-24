@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" width="1100" src="Aditya Pore.png"  />
+  <img height="200" width="1100" src="Aditya Pore.png"  />
 </div>
 
 ###
